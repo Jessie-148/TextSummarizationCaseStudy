@@ -1,0 +1,1 @@
+Basic Text Summary Tool: A straightforward tool for generating summaries from any written content!
